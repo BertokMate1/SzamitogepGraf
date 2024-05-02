@@ -1,3 +1,3 @@
 # Repository for Computer Graphics:
--   -Assigments are found in the beadandók folder
+-   -The assigment is found in the beadandó folder
 -   -Homeworks are found on the main page
