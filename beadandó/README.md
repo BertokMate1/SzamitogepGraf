@@ -4,6 +4,7 @@ Gamblers Run is a simple game implemented in C using SDL2 and OpenGL. The goal o
 
 ## Features
 - Randomly generated obstacles
+- Endlessly generating level
 - Highscore tracking
 
 ## How to Play
