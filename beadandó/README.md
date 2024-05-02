@@ -10,4 +10,4 @@ Gamblers Run is a simple game implemented in C using SDL2 and OpenGL. The goal o
 ## How to Play
 - Use the Space bar to jump over obstacles.
 - Avoid collision with obstacles to continue playing.
-- Try to survive as long as possible and collect as many points (highscore) as you can.
+- Try to survive as long as possible and collect as many points as you can.
