@@ -243,6 +243,11 @@ void render_app(App *app)
         help(app->scene.end_texture_id);
     }
 
+    if (app->scene.showHelp == 1)
+    {
+        help(app->scene.help_texture_id);
+    }
+
     if (app->camera.is_preview_visible)
     {
         show_texture_preview();
